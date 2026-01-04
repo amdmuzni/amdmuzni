@@ -3,7 +3,8 @@
 🎓 Cybersecurity undergraduate with a strong interest in ethical hacking,
 network security and system defense.
 
-🛡️ I enjoy building vulnerable labs breaking them in controlled environments, simulating real world attacks and documenting attack paths with proper mitigations.
+🛡️ I enjoy building vulnerable labs breaking them in controlled environments, simulating real world attacks and documenting attack paths with 
+  proper mitigations.
 
 🌱 Currently strengthening my skills in:
 - Network security & fundamentals
@@ -21,3 +22,8 @@ network security and system defense.
 
 💡 Career goal:
 To broader my cybersecurity and ethical hacking knowledge with a strong defensive mindset.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/amdmuzni
+- LinkedIn: linkedin.com/in/ahamedmuzni
