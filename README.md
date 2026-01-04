@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Ahamed Muzni
 
-<!--
-**amdmuzni/amdmuzni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity undergraduate with a strong interest in ethical hacking,
+network security and system defense.
 
-Here are some ideas to get you started:
+🛡️ I enjoy building vulnerable labs breaking them in controlled environments, simulating real world attacks and documenting attack paths with proper mitigations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently strengthening my skills in:
+- Network security & fundamentals
+- Linux & Windows server 
+- CTF style penetration testing
+- Security reporting & documentation
+- Understanding of Cloud Services
+- Fundamental Understanding on Security Frameworks
+
+🔭 Projects include:
+- Cisco Packet Tracer network designs
+- Custom-built Ubuntu CTF labs
+- Windows & Linux vulnerability analysis reports
+
+💡 Career goal:
+To become an ethical hacker / cybersecurity engineer with a strong defensive mindset.
