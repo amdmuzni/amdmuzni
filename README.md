@@ -15,8 +15,9 @@ network security and system defense.
 
 🔭 Projects include:
 - Cisco Packet Tracer network designs
-- Custom-built Ubuntu CTF labs
-- Windows & Linux vulnerability analysis reports
+- Custom built Ubuntu CTF labs
+- Recommended BCP plan for a medium Sized Organization
+- Forensics including Network Traffic, Steganography and Memory forensics in a simulated environment
 
 💡 Career goal:
-To become an ethical hacker / cybersecurity engineer with a strong defensive mindset.
+To broader my cybersecurity and ethical hacking knowledge with a strong defensive mindset.
