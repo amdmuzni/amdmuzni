@@ -26,4 +26,4 @@ To broader my cybersecurity and ethical hacking knowledge with a strong defensiv
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/amdmuzni
-- LinkedIn: linkedin.com/in/ahamedmuzni
+- LinkedIn: www.linkedin.com/in/ahamedmuzni
